@@ -1,0 +1,15 @@
+.DS_Store
+build.log
+build
+npm-debug.log
+/dist
+/node_modules
+tmp
+Resources
+/plugins
+*.lock
+
+*.prefs
+
+Documents/node_modules/
+Documents/coords.sql
